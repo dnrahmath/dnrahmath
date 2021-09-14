@@ -1,2 +1,6 @@
+
+
 | Key | Tools |
-| .   | github.dev |
+| --- | ----- |
+| .   | .github.dev - editor in repositor |
+| github pages   | .github.io - web pages |
