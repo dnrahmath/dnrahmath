@@ -16,7 +16,7 @@
 | alt+\   | sync all  |
 | -   | - |
 | -   | - |
-| alt+shift+Arrow   | stage all changes |
+| alt+shift+Arrow   | column multiply changes |
 | esc   | cancle  |
 | -   | - |
 | ctrl+F   | find text |
