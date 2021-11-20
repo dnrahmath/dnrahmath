@@ -14,3 +14,11 @@
 | alt+[   | stage all changes |
 | alt+]   | commit all  |
 | alt+\   | sync all  |
+| -   | - |
+| -   | - |
+| alt+shift+Arrow   | stage all changes |
+| esc   | cancle  |
+| -   | - |
+| ctrl+F   | find text |
+| ctrl+D   | select same text  |
+| -   | - |
