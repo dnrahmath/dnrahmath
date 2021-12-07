@@ -20,5 +20,7 @@
 | esc   | cancle  |
 | -   | - |
 | ctrl+F   | find text |
+| -   | - |
 | ctrl+D   | select same text  |
+| ctrl+K   | skip select same text  |
 | -   | - |
