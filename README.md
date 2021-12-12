@@ -25,3 +25,6 @@
 | Shift+Alt+Arrow/LMB   | column multiply changes |
 | esc   | cancle  |
 | -   | - |
+| -   | - |
+| ctrl+tab | switch file view |
+| -   | - |
