@@ -11,9 +11,15 @@
 | ctrl+shift+e   | eksplorer |
 | ctrl+shift+g   | source control |
 | -   | - |
-| alt+[   | stage all changes |
-| alt+]   | commit all  |
-| alt+\   | sync all  |
+| -   | - |
+| alt+[   | git.stageAll |
+| alt+[   | remoteHub.stageAllChanges  |
+| -   | - |
+| alt+]   | git.commitAll |
+| alt+]   | remoteHub.commit |
+| -   | - |
+| alt+\   | git.sync  |
+| alt+\   | remoteHub.sync  |
 | -   | - |
 | -   | - |
 | ctrl+F   | find text |
