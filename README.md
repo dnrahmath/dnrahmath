@@ -18,6 +18,10 @@
 | alt+]   | git.commitAll |
 | alt+]   | remoteHub.commit |
 | -   | - |
+| don't be empty | Input text in File COMMIT_EDITMSG |
+| ctrl+s   | Save File COMMIT_EDITMSG |
+| ctrl+w   | Exit File COMMIT_EDITMSG |
+| -   | - |
 | alt+\   | git.sync  |
 | alt+\   | remoteHub.sync  |
 | -   | - |
