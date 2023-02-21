@@ -12,6 +12,14 @@
 | ctrl+shift+g   | source control |
 | -   | - |
 | -   | - |
+| ctrl+alt+s | workbench.action.files.saveAll |
+| -   | - |
+| -   | - |
+| -   | - |
+| shift+alt+[  | git.unstageAll |
+| shift+alt+[  | remoteHub.unstageAll |
+| -   | - |
+| -   | - |
 | alt+[   | git.stageAll |
 | alt+[   | remoteHub.stageAllChanges  |
 | -   | - |
@@ -22,8 +30,9 @@
 | ctrl+s   | Save File COMMIT_EDITMSG |
 | ctrl+w   | Exit File COMMIT_EDITMSG |
 | -   | - |
-| alt+\   | git.sync  |
-| alt+\   | remoteHub.sync  |
+| alt+\\  | git.sync |
+| alt+\\  | remoteHub.sync |
+| -   | - |
 | -   | - |
 | -   | - |
 | ctrl+F   | find text |
