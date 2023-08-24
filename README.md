@@ -46,3 +46,8 @@
 | -   | - | - |
 | ctrl+tab | switch file view | - |
 | -   | - | - |
+| -   | - | - |
+| ctrl+shift+alt  | Flutter: Select Devices | - |
+| -   | - | - |
+| -   | - | - |
+| -   | - | - |
